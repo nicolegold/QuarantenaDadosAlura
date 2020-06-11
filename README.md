@@ -16,5 +16,5 @@ Vamos entender, explorar e analisar dados da base de filmes do MovieLens e tamb√
 * [DesafioFinal](https://github.com/nicolegold/QuarantenaDadosAlura/blob/master/QuarentenaDados_Desafio_Final.ipynb)
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/nicolegold/QuarantenaDadosAlura/master/EV1AxoyWkAEAAkZ.jpg" >
+  <img src="" >
 </p>
