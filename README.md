@@ -4,6 +4,10 @@ Vamos dar nossos primeiros passos em Ciência de Dados em uma nova Quarentena!
 
 Vamos entender, explorar e analisar dados da base de filmes do MovieLens e também do Enem!
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/nicolegold/QuarantenaDadosAlura/master/EV1AxoyWkAEAAkZ.jpg" >
+</p>
+
 * [Aula1](https://github.com/nicolegold/QuarantenaDadosAlura/blob/master/QuarentenaDados_aula01.ipynb)
 * [Desafio1](https://github.com/nicolegold/QuarantenaDadosAlura/blob/master/Desafios_aula_01.ipynb)
 * [Aula2](https://github.com/nicolegold/QuarantenaDadosAlura/blob/master/QuarentenaDados_aula02.ipynb)
